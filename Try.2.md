@@ -4,10 +4,14 @@ Guthib will be an ideal place to take memos!
 
 ## MEMO
 
-### Accounts
+### Watch Later
 
-ID: nobody@no.one
-Password: ***REMOVED***
+- Attack on Titan
+- DARLING in the FRANXX
+- Wonder Egg Priority
+- The Day I Became a God
+- Kemono Friends
+- Charlotte
 
 
 ```
