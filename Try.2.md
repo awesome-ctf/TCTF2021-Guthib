@@ -6,12 +6,12 @@ Guthib will be an ideal place to take memos!
 
 ### Watch Later
 
-- Attack on Titan
+- Attack on Titan Chapter 139
 - DARLING in the FRANXX
 - Wonder Egg Priority
 - The Day I Became a God
 - Kemono Friends
-- Charlotte
+- Charlotte 2
 
 
 ```
